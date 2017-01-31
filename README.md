@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>SQL 101 - </td>
-    <td>[Intro to Databases](../blob/master/101/8.1 Intro to Databases.html)</td>
+    <td><a href="../blob/master/101/8.1 Intro to Databases.html">Intro to Databases</a></td>
     <td>[One to many relationships](../blob/master/101/8.2 Mandatory Pairing_ One-to-Many Relationships.html)</td>
     <td>[Build a database](../blob/master/101/8.3 Solo Challenge_ Build a Database.html)</td>
     <td>[Many to many relationships](../blob/master/101/8.4 Mandatory Pairing_ Many-to-Many Relationships.html)</td>
@@ -22,11 +22,11 @@
 
 ##Before you start!!
 
-1.  [SETUP YOUR COMPUTER]("../blob/master/setup.md")
+1.  [SETUP YOUR COMPUTER](../blob/master/setup.md)
 
-2.  [GIT AND GITHUB BASICS]("../blob/master/git.md")
+2.  [GIT AND GITHUB BASICS](../blob/master/git.md)
 
-3.  [GOOGLE FU]("../blob/master/googlefu.md")
+3.  [GOOGLE FU](../blob/master/googlefu.md)
 
 
 
