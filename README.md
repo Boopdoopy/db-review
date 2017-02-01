@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td>SQL 101 - </td>
-    <td><a href="../master/101/8.1 Intro to Databases.html">Intro to Databases</a></td>
-    <td><a href="../master/101/8.2 Mandatory Pairing_ One-to-Many Relationships.html">One to many relationships</a></td>
-    <td><a href="../master/101/8.3 Solo Challenge_ Build a Database.html">Build a database</a></td>
-    <td><a href="../master/101/8.4 Mandatory Pairing_ Many-to-Many Relationships.html">Many to many relationships</a></td>
+    <td><a href="../master/101/Intro/README.md">Intro to Databases</a></td>
+    <td><a href="../master/101/One-to-Many/README.md">One to many relationships</a></td>
+    <td><a href="../master/101/Build a Database/README.md">Build a database</a></td>
+    <td><a href="../master/101/Many-to-Many/README.md">Many to many relationships</a></td>
   </tr>
   <tr>
     <td>SQL 201 - </td>
