@@ -83,9 +83,9 @@ for the poor image quality
 
 5.  Back to the start for the installing process
 
-    >$cd
+    >$cd ..
 
-    This brings you back to your start. You can always type $cd to
+    This brings you back up a level to your start. You can always type $cd by itself to
     quickly get back to your main folder.
 
 6.  First you'll need the xcode command line tools (MAC's 
