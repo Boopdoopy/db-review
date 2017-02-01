@@ -127,7 +127,7 @@ for the poor image quality
 
 *****
 
-###And you're ready to go!
+###And you're ready to get started! -> [GIT](.././git.md)
 
 
 
